@@ -1,5 +1,5 @@
 # Oracle → SQL Server SQL修正覚え書き  
-ユーザー作成の Oracle + Access アプリを SQL Server に移行する案件で、アプリ内のSQLを書き換えたときの覚え書き
+Oracle + Access アプリを SQL Server に移行する案件で、アプリ内のSQLを書き換えたときの覚え書き
 ## SQL修正箇所一覧  
 | No. | Oracle | SQL Server | 備考 |
 |-----|-----|-----|-----|
